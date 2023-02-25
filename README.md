@@ -21,3 +21,7 @@ npm run dev
 ```
 from the root directory of this repo. Then navigate to `http://localhost:5173/` in your browser
 and prepared to amazed!!
+
+## Notes
+### Flume
+- First bummer is that it *requires* React 17, not possible to use React 18 :'(
