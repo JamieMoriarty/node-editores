@@ -1,0 +1,10 @@
+.container {
+    height: calc(100vh - 128px);
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.editorWrapper {
+    flex-grow: 1;
+}

@@ -24,4 +24,9 @@ and prepared to amazed!!
 
 ## Notes
 ### Flume
-- First bummer is that it *requires* React 17, not possible to use React 18 :'(
+- First bummer: it *requires* React 17, not possible to use React 18 :'(
+- Second bummer: no support for TypeScript :(
+
+Other than that, seems to work. I imagine that the config quickly becomes VERY difficult to manage and 
+the editor is a little stiff and doesn't exactly feel natural, but I see that it works.
+
